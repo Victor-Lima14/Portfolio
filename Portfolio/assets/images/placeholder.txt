@@ -1,0 +1,2 @@
+# Este diretório é reservado para imagens de miniatura de projetos, avatares, favicon e OG images.
+# Insira suas imagens aqui e atualize as referências correspondentes no arquivo 'index.html'.
