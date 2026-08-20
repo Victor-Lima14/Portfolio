@@ -1,0 +1,2 @@
+# Este diretório é reservado para ícones personalizados caso não deseje utilizar as bibliotecas via CDN (como Font Awesome).
+# Você pode salvar arquivos SVG ou PNG aqui e referenciá-los no seu código HTML.
